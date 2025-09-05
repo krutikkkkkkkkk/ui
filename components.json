@@ -19,9 +19,9 @@
   },
   "iconLibrary": "lucide",
   "registries": {
-  "@krutik": "https://registry.krutikraut.com/{name}.json",
+  "@krutik": "https://ui.krutikraut.com/{name}.json",
   "@private": {
-      "url": "https://registry.krutikraut.com/{name}.json",
+      "url": "https://ui.krutikraut.com/{name}.json",
       "headers": {
         "Authorization": "Bearer ${REGISTRY_TOKEN}"
       }
